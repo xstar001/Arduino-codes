@@ -17,10 +17,12 @@ LSM6DSOX sensor
 3. Install libraries for acceleromter and gyro: 
 
   The 1st method: Install "Arduino_LSM6DSOX" lib
+  
   This lib hellps us reading Arudino Nano onboard accelerometer and gyro. 
   However, the maximum acceleration is limited to 4g. 
   
   The 2nd method: Install "Adafruit LSM6DS" lib
+  
   This lib provides more basic functions to access onboard accelerometer and gyro. 
   Therefore the maximum acceleration can be more than 4g. 
   
